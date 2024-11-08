@@ -2,6 +2,8 @@
 
 import React, { useState } from 'react';
 
+type SortValue = string | number | null;
+
 interface PerGameStats {
   yards: number;
   touchdowns: number;
@@ -61,8 +63,8 @@ const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects }) => {
   };
 
   const sortedProspects = [...prospects].sort((a, b) => {
-    let aValue: any;
-    let bValue: any;
+    let aValue: SortValue;
+    let bValue: SortValue;
     
     switch (sortField) {
       case 'name':

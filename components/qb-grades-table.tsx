@@ -2,6 +2,8 @@
 
 import React, { useState } from 'react';
 
+type SortValue = string | number | null;
+
 interface PerGameStats {
   yards: number;
   touchdowns: number;
@@ -62,8 +64,8 @@ const QBGradesTable: React.FC<QBGradesTableProps> = ({ predictions = [] }) => {
 
   const sortData = (data: QBPrediction[]) => {
     const sortedData = [...data].sort((a, b) => {
-      let aValue: any;
-      let bValue: any;
+      let aValue: SortValue;
+      let bValue: SortValue;
 
       switch (sortConfig.key) {
         case 'name':

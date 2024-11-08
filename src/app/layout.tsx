@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Link from 'next/link';
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -31,12 +32,12 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4">
             <div className="flex items-center justify-between h-16">
               <div className="flex space-x-4">
-                <a href="/" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
-                  Player Comps
-                </a>
-                <a href="/grades" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
-                  Draft Grades
-                </a>
+              <Link href="/" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
+                Player Comps
+              </Link>
+              <Link href="/grades" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
+               Draft Grades
+             </Link>
               </div>
             </div>
           </div>
