@@ -1,0 +1,1589 @@
+[
+  {
+    "name": "Shedeur Sanders",
+    "school": "Colorado",
+    "stats": {
+      "rank": 3,
+      "games_played": 7,
+      "grade": 95.71000000000001,
+      "success_probability": 0.7545657065157062,
+      "completions": 195,
+      "attempts": 272,
+      "yards": 2268,
+      "touchdowns": 19,
+      "grades_offense": 91.0,
+      "grades_pass": 90.4,
+      "per_game": {
+        "yards": 324.0,
+        "touchdowns": 2.7142857142857144,
+        "attempts": 38.857142857142854,
+        "completions": 27.857142857142858,
+        "big_time_throws": 2.5714285714285716
+      }
+    }
+  },
+  {
+    "name": "Jalen Milroe",
+    "school": "Alabama",
+    "stats": {
+      "rank": 11,
+      "games_played": 7,
+      "grade": 82.94444444444444,
+      "success_probability": 0.392216378066378,
+      "completions": 121,
+      "attempts": 180,
+      "yards": 1722,
+      "touchdowns": 13,
+      "grades_offense": 79.5,
+      "grades_pass": 76.6,
+      "per_game": {
+        "yards": 246.0,
+        "touchdowns": 1.8571428571428572,
+        "attempts": 25.714285714285715,
+        "completions": 17.285714285714285,
+        "big_time_throws": 1.0
+      }
+    }
+  },
+  {
+    "name": "Carson Beck",
+    "school": "Georgia",
+    "stats": {
+      "rank": 18,
+      "games_played": 7,
+      "grade": 77.61357142857142,
+      "success_probability": 0.485964912864913,
+      "completions": 165,
+      "attempts": 251,
+      "yards": 1993,
+      "touchdowns": 15,
+      "grades_offense": 83.2,
+      "grades_pass": 83.2,
+      "per_game": {
+        "yards": 284.7142857142857,
+        "touchdowns": 2.142857142857143,
+        "attempts": 35.857142857142854,
+        "completions": 23.571428571428573,
+        "big_time_throws": 1.7142857142857142
+      }
+    }
+  },
+  {
+    "name": "Quinn Ewers",
+    "school": "Texas",
+    "stats": {
+      "rank": 17,
+      "games_played": 5,
+      "grade": 76.875,
+      "success_probability": 0.3883497113997114,
+      "completions": 102,
+      "attempts": 150,
+      "yards": 1097,
+      "touchdowns": 11,
+      "grades_offense": 62.5,
+      "grades_pass": 62.5,
+      "per_game": {
+        "yards": 219.4,
+        "touchdowns": 2.2,
+        "attempts": 30.0,
+        "completions": 20.4,
+        "big_time_throws": 1.0
+      }
+    }
+  },
+  {
+    "name": "Garrett Nussmeier",
+    "school": "LSU",
+    "stats": {
+      "rank": 34,
+      "games_played": 7,
+      "grade": 75.41142857142857,
+      "success_probability": 0.38232761127761145,
+      "completions": 183,
+      "attempts": 284,
+      "yards": 2222,
+      "touchdowns": 18,
+      "grades_offense": 85.7,
+      "grades_pass": 82.5,
+      "per_game": {
+        "yards": 317.42857142857144,
+        "touchdowns": 2.5714285714285716,
+        "attempts": 40.57142857142857,
+        "completions": 26.142857142857142,
+        "big_time_throws": 2.0
+      }
+    }
+  },
+  {
+    "name": "Jaxson Dart",
+    "school": "Mississippi",
+    "stats": {
+      "rank": 80,
+      "games_played": 7,
+      "grade": 69.05571428571429,
+      "success_probability": 0.5572434842934842,
+      "completions": 151,
+      "attempts": 216,
+      "yards": 2381,
+      "touchdowns": 14,
+      "grades_offense": 90.7,
+      "grades_pass": 90.4,
+      "per_game": {
+        "yards": 340.14285714285717,
+        "touchdowns": 2.0,
+        "attempts": 30.857142857142858,
+        "completions": 21.571428571428573,
+        "big_time_throws": 2.0
+      }
+    }
+  },
+  {
+    "name": "Drew Allar",
+    "school": "Penn State",
+    "stats": {
+      "rank": 42,
+      "games_played": 6,
+      "grade": 68.99666666666667,
+      "success_probability": 0.37665447330447344,
+      "completions": 103,
+      "attempts": 146,
+      "yards": 1492,
+      "touchdowns": 11,
+      "grades_offense": 88.6,
+      "grades_pass": 85.6,
+      "per_game": {
+        "yards": 248.66666666666666,
+        "touchdowns": 1.8333333333333333,
+        "attempts": 24.333333333333332,
+        "completions": 17.166666666666668,
+        "big_time_throws": 1.3333333333333333
+      }
+    }
+  },
+  {
+    "name": "Kyle McCord",
+    "school": "Syracuse",
+    "stats": {
+      "rank": 177,
+      "games_played": 6,
+      "grade": 64.5,
+      "success_probability": 0.18347575757575763,
+      "completions": 184,
+      "attempts": 283,
+      "yards": 2152,
+      "touchdowns": 19,
+      "grades_offense": 90.0,
+      "grades_pass": 87.9,
+      "per_game": {
+        "yards": 358.6666666666667,
+        "touchdowns": 3.1666666666666665,
+        "attempts": 47.166666666666664,
+        "completions": 30.666666666666668,
+        "big_time_throws": 3.5
+      }
+    }
+  },
+  {
+    "name": "Kurtis Rourke",
+    "school": "Indiana",
+    "stats": {
+      "rank": 112,
+      "games_played": 7,
+      "grade": 60.41285714285714,
+      "success_probability": 0.5139365079365078,
+      "completions": 135,
+      "attempts": 182,
+      "yards": 1941,
+      "touchdowns": 15,
+      "grades_offense": 90.5,
+      "grades_pass": 91.7,
+      "per_game": {
+        "yards": 277.2857142857143,
+        "touchdowns": 2.142857142857143,
+        "attempts": 26.0,
+        "completions": 19.285714285714285,
+        "big_time_throws": 1.4285714285714286
+      }
+    }
+  },
+  {
+    "name": "Tyler Shough",
+    "school": "Louisville",
+    "stats": {
+      "rank": 955,
+      "games_played": 7,
+      "grade": 59.09857142857143,
+      "success_probability": 0.22845091575091586,
+      "completions": 146,
+      "attempts": 234,
+      "yards": 2016,
+      "touchdowns": 18,
+      "grades_offense": 89.3,
+      "grades_pass": 89.9,
+      "per_game": {
+        "yards": 288.0,
+        "touchdowns": 2.5714285714285716,
+        "attempts": 33.42857142857143,
+        "completions": 20.857142857142858,
+        "big_time_throws": 2.142857142857143
+      }
+    }
+  },
+  {
+    "name": "Cade Klubnik",
+    "school": "Clemson",
+    "stats": {
+      "rank": 212,
+      "games_played": 7,
+      "grade": 58.82142857142857,
+      "success_probability": 0.13800805860805865,
+      "completions": 146,
+      "attempts": 222,
+      "yards": 1840,
+      "touchdowns": 20,
+      "grades_offense": 89.9,
+      "grades_pass": 87.2,
+      "per_game": {
+        "yards": 262.85714285714283,
+        "touchdowns": 2.857142857142857,
+        "attempts": 31.714285714285715,
+        "completions": 20.857142857142858,
+        "big_time_throws": 1.8571428571428572
+      }
+    }
+  },
+  {
+    "name": "Dillon Gabriel",
+    "school": "Oregon",
+    "stats": {
+      "rank": 193,
+      "games_played": 7,
+      "grade": 57.254285714285714,
+      "success_probability": 0.2779747252747253,
+      "completions": 174,
+      "attempts": 229,
+      "yards": 2077,
+      "touchdowns": 15,
+      "grades_offense": 89.2,
+      "grades_pass": 89.6,
+      "per_game": {
+        "yards": 296.7142857142857,
+        "touchdowns": 2.142857142857143,
+        "attempts": 32.714285714285715,
+        "completions": 24.857142857142858,
+        "big_time_throws": 1.5714285714285714
+      }
+    }
+  },
+  {
+    "name": "Jordan McCloud",
+    "school": "Texas State",
+    "stats": {
+      "rank": 971,
+      "games_played": 7,
+      "grade": 55.50142857142857,
+      "success_probability": 0.061633455433455435,
+      "completions": 160,
+      "attempts": 233,
+      "yards": 1894,
+      "touchdowns": 20,
+      "grades_offense": 83.5,
+      "grades_pass": 83.2,
+      "per_game": {
+        "yards": 270.57142857142856,
+        "touchdowns": 2.857142857142857,
+        "attempts": 33.285714285714285,
+        "completions": 22.857142857142858,
+        "big_time_throws": 1.5714285714285714
+      }
+    }
+  },
+  {
+    "name": "Jake Retzlaff",
+    "school": "BYU",
+    "stats": {
+      "rank": 695,
+      "games_played": 7,
+      "grade": 53.23,
+      "success_probability": 0.038817582417582416,
+      "completions": 121,
+      "attempts": 206,
+      "yards": 1644,
+      "touchdowns": 16,
+      "grades_offense": 86.1,
+      "grades_pass": 83.0,
+      "per_game": {
+        "yards": 234.85714285714286,
+        "touchdowns": 2.2857142857142856,
+        "attempts": 29.428571428571427,
+        "completions": 17.285714285714285,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Brendan Sorsby",
+    "school": "Cincinnati",
+    "stats": {
+      "rank": 528,
+      "games_played": 7,
+      "grade": 52.752857142857145,
+      "success_probability": 0.03341916971916972,
+      "completions": 155,
+      "attempts": 231,
+      "yards": 1928,
+      "touchdowns": 13,
+      "grades_offense": 84.9,
+      "grades_pass": 81.7,
+      "per_game": {
+        "yards": 275.42857142857144,
+        "touchdowns": 1.8571428571428572,
+        "attempts": 33.0,
+        "completions": 22.142857142857142,
+        "big_time_throws": 1.1428571428571428
+      }
+    }
+  },
+  {
+    "name": "Hank Bachmeier",
+    "school": "Wake Forest",
+    "stats": {
+      "rank": 889,
+      "games_played": 7,
+      "grade": 52.21857142857143,
+      "success_probability": 0.032919169719169715,
+      "completions": 145,
+      "attempts": 234,
+      "yards": 1702,
+      "touchdowns": 9,
+      "grades_offense": 87.7,
+      "grades_pass": 82.0,
+      "per_game": {
+        "yards": 243.14285714285714,
+        "touchdowns": 1.2857142857142858,
+        "attempts": 33.42857142857143,
+        "completions": 20.714285714285715,
+        "big_time_throws": 1.4285714285714286
+      }
+    }
+  },
+  {
+    "name": "Tommy Mellott",
+    "school": "Montana State",
+    "stats": {
+      "rank": 846,
+      "games_played": 8,
+      "grade": 52.2,
+      "success_probability": 0.08693333333333332,
+      "completions": 103,
+      "attempts": 148,
+      "yards": 1433,
+      "touchdowns": 17,
+      "grades_offense": 91.4,
+      "grades_pass": 85.4,
+      "per_game": {
+        "yards": 179.125,
+        "touchdowns": 2.125,
+        "attempts": 18.5,
+        "completions": 12.875,
+        "big_time_throws": 1.125
+      }
+    }
+  },
+  {
+    "name": "Miller Moss",
+    "school": "USC",
+    "stats": {
+      "rank": 187,
+      "games_played": 7,
+      "grade": 51.88285714285715,
+      "success_probability": 0.08633888888888888,
+      "completions": 183,
+      "attempts": 286,
+      "yards": 1947,
+      "touchdowns": 14,
+      "grades_offense": 80.8,
+      "grades_pass": 79.6,
+      "per_game": {
+        "yards": 278.14285714285717,
+        "touchdowns": 2.0,
+        "attempts": 40.857142857142854,
+        "completions": 26.142857142857142,
+        "big_time_throws": 1.5714285714285714
+      }
+    }
+  },
+  {
+    "name": "Spencer Petras",
+    "school": "Utah State",
+    "stats": {
+      "rank": 963,
+      "games_played": 5,
+      "grade": 51.698,
+      "success_probability": 0.0021999999999999997,
+      "completions": 136,
+      "attempts": 205,
+      "yards": 1631,
+      "touchdowns": 11,
+      "grades_offense": 76.1,
+      "grades_pass": 76.9,
+      "per_game": {
+        "yards": 326.2,
+        "touchdowns": 2.2,
+        "attempts": 41.0,
+        "completions": 27.2,
+        "big_time_throws": 2.0
+      }
+    }
+  },
+  {
+    "name": "Zach Calzada",
+    "school": "Incarnate Word",
+    "stats": {
+      "rank": 919,
+      "games_played": 6,
+      "grade": 51.65,
+      "success_probability": 0.02084126984126984,
+      "completions": 152,
+      "attempts": 221,
+      "yards": 1635,
+      "touchdowns": 18,
+      "grades_offense": 77.0,
+      "grades_pass": 72.8,
+      "per_game": {
+        "yards": 272.5,
+        "touchdowns": 3.0,
+        "attempts": 36.833333333333336,
+        "completions": 25.333333333333332,
+        "big_time_throws": 1.1666666666666667
+      }
+    }
+  },
+  {
+    "name": "Diego Pavia",
+    "school": "Vanderbilt",
+    "stats": {
+      "rank": 844,
+      "games_played": 7,
+      "grade": 51.40714285714285,
+      "success_probability": 0.18045396825396834,
+      "completions": 102,
+      "attempts": 154,
+      "yards": 1388,
+      "touchdowns": 11,
+      "grades_offense": 89.1,
+      "grades_pass": 90.0,
+      "per_game": {
+        "yards": 198.28571428571428,
+        "touchdowns": 1.5714285714285714,
+        "attempts": 22.0,
+        "completions": 14.571428571428571,
+        "big_time_throws": 1.4285714285714286
+      }
+    }
+  },
+  {
+    "name": "Will Howard",
+    "school": "Ohio State",
+    "stats": {
+      "rank": 352,
+      "games_played": 6,
+      "grade": 51.24666666666666,
+      "success_probability": 0.011933333333333332,
+      "completions": 120,
+      "attempts": 164,
+      "yards": 1567,
+      "touchdowns": 14,
+      "grades_offense": 81.1,
+      "grades_pass": 79.8,
+      "per_game": {
+        "yards": 261.1666666666667,
+        "touchdowns": 2.3333333333333335,
+        "attempts": 27.333333333333332,
+        "completions": 20.0,
+        "big_time_throws": 1.1666666666666667
+      }
+    }
+  },
+  {
+    "name": "Haynes King",
+    "school": "Georgia Tech",
+    "stats": {
+      "rank": 748,
+      "games_played": 7,
+      "grade": 50.752857142857145,
+      "success_probability": 0.025309645909645906,
+      "completions": 136,
+      "attempts": 192,
+      "yards": 1558,
+      "touchdowns": 8,
+      "grades_offense": 87.7,
+      "grades_pass": 82.7,
+      "per_game": {
+        "yards": 222.57142857142858,
+        "touchdowns": 1.1428571428571428,
+        "attempts": 27.428571428571427,
+        "completions": 19.428571428571427,
+        "big_time_throws": 0.8571428571428571
+      }
+    }
+  },
+  {
+    "name": "Seth Henigan",
+    "school": "Memphis",
+    "stats": {
+      "rank": 395,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.012999999999999998,
+      "completions": 178,
+      "attempts": 274,
+      "yards": 1869,
+      "touchdowns": 10,
+      "grades_offense": 77.7,
+      "grades_pass": 76.2,
+      "per_game": {
+        "yards": 267.0,
+        "touchdowns": 1.4285714285714286,
+        "attempts": 39.142857142857146,
+        "completions": 25.428571428571427,
+        "big_time_throws": 2.142857142857143
+      }
+    }
+  },
+  {
+    "name": "Behren Morton",
+    "school": "Texas Tech",
+    "stats": {
+      "rank": 579,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.021491269841269842,
+      "completions": 173,
+      "attempts": 271,
+      "yards": 1923,
+      "touchdowns": 17,
+      "grades_offense": 73.9,
+      "grades_pass": 73.6,
+      "per_game": {
+        "yards": 274.7142857142857,
+        "touchdowns": 2.4285714285714284,
+        "attempts": 38.714285714285715,
+        "completions": 24.714285714285715,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Noah Fifita",
+    "school": "Arizona",
+    "stats": {
+      "rank": 339,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.006066666666666667,
+      "completions": 152,
+      "attempts": 257,
+      "yards": 1771,
+      "touchdowns": 9,
+      "grades_offense": 69.0,
+      "grades_pass": 66.8,
+      "per_game": {
+        "yards": 253.0,
+        "touchdowns": 1.2857142857142858,
+        "attempts": 36.714285714285715,
+        "completions": 21.714285714285715,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Owen McCown",
+    "school": "UTSA",
+    "stats": {
+      "rank": 539,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0015,
+      "completions": 154,
+      "attempts": 252,
+      "yards": 1634,
+      "touchdowns": 12,
+      "grades_offense": 75.0,
+      "grades_pass": 74.2,
+      "per_game": {
+        "yards": 233.42857142857142,
+        "touchdowns": 1.7142857142857142,
+        "attempts": 36.0,
+        "completions": 22.0,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Alan Bowman",
+    "school": "Oklahoma State",
+    "stats": {
+      "rank": 968,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.001,
+      "completions": 139,
+      "attempts": 234,
+      "yards": 1759,
+      "touchdowns": 14,
+      "grades_offense": 68.1,
+      "grades_pass": 66.7,
+      "per_game": {
+        "yards": 251.28571428571428,
+        "touchdowns": 2.0,
+        "attempts": 33.42857142857143,
+        "completions": 19.857142857142858,
+        "big_time_throws": 1.4285714285714286
+      }
+    }
+  },
+  {
+    "name": "Maalik Murphy",
+    "school": "Duke",
+    "stats": {
+      "rank": 489,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0005,
+      "completions": 137,
+      "attempts": 233,
+      "yards": 1500,
+      "touchdowns": 14,
+      "grades_offense": 72.4,
+      "grades_pass": 71.2,
+      "per_game": {
+        "yards": 214.28571428571428,
+        "touchdowns": 2.0,
+        "attempts": 33.285714285714285,
+        "completions": 19.571428571428573,
+        "big_time_throws": 1.7142857142857142
+      }
+    }
+  },
+  {
+    "name": "Will Rogers",
+    "school": "Washington",
+    "stats": {
+      "rank": 797,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.01808730158730159,
+      "completions": 153,
+      "attempts": 215,
+      "yards": 1820,
+      "touchdowns": 13,
+      "grades_offense": 77.6,
+      "grades_pass": 80.9,
+      "per_game": {
+        "yards": 260.0,
+        "touchdowns": 1.8571428571428572,
+        "attempts": 30.714285714285715,
+        "completions": 21.857142857142858,
+        "big_time_throws": 1.5714285714285714
+      }
+    }
+  },
+  {
+    "name": "Brett Gabbert",
+    "school": "Miami (OH)",
+    "stats": {
+      "rank": 917,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0008,
+      "completions": 121,
+      "attempts": 213,
+      "yards": 1561,
+      "touchdowns": 12,
+      "grades_offense": 59.3,
+      "grades_pass": 60.2,
+      "per_game": {
+        "yards": 223.0,
+        "touchdowns": 1.7142857142857142,
+        "attempts": 30.428571428571427,
+        "completions": 17.285714285714285,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Max Brosmer",
+    "school": "Minnesota",
+    "stats": {
+      "rank": 289,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.033567460317460315,
+      "completions": 143,
+      "attempts": 212,
+      "yards": 1429,
+      "touchdowns": 8,
+      "grades_offense": 77.4,
+      "grades_pass": 76.9,
+      "per_game": {
+        "yards": 204.14285714285714,
+        "touchdowns": 1.1428571428571428,
+        "attempts": 30.285714285714285,
+        "completions": 20.428571428571427,
+        "big_time_throws": 0.7142857142857143
+      }
+    }
+  },
+  {
+    "name": "Brady Cook",
+    "school": "Missouri",
+    "stats": {
+      "rank": 327,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.015166666666666669,
+      "completions": 130,
+      "attempts": 207,
+      "yards": 1545,
+      "touchdowns": 7,
+      "grades_offense": 75.0,
+      "grades_pass": 70.1,
+      "per_game": {
+        "yards": 220.71428571428572,
+        "touchdowns": 1.0,
+        "attempts": 29.571428571428573,
+        "completions": 18.571428571428573,
+        "big_time_throws": 1.0
+      }
+    }
+  },
+  {
+    "name": "Connor Bazelak",
+    "school": "Bowling Green",
+    "stats": {
+      "rank": 872,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.004933333333333334,
+      "completions": 142,
+      "attempts": 204,
+      "yards": 1654,
+      "touchdowns": 8,
+      "grades_offense": 79.5,
+      "grades_pass": 78.1,
+      "per_game": {
+        "yards": 236.28571428571428,
+        "touchdowns": 1.1428571428571428,
+        "attempts": 29.142857142857142,
+        "completions": 20.285714285714285,
+        "big_time_throws": 1.1428571428571428
+      }
+    }
+  },
+  {
+    "name": "Luke Altmyer",
+    "school": "Illinois",
+    "stats": {
+      "rank": 663,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0032333333333333333,
+      "completions": 120,
+      "attempts": 184,
+      "yards": 1506,
+      "touchdowns": 15,
+      "grades_offense": 79.4,
+      "grades_pass": 75.2,
+      "per_game": {
+        "yards": 215.14285714285714,
+        "touchdowns": 2.142857142857143,
+        "attempts": 26.285714285714285,
+        "completions": 17.142857142857142,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Jake Garcia",
+    "school": "East Carolina",
+    "stats": {
+      "rank": 624,
+      "games_played": 6,
+      "grade": 50.0,
+      "success_probability": 0.0033,
+      "completions": 109,
+      "attempts": 182,
+      "yards": 1422,
+      "touchdowns": 8,
+      "grades_offense": 65.6,
+      "grades_pass": 60.6,
+      "per_game": {
+        "yards": 237.0,
+        "touchdowns": 1.3333333333333333,
+        "attempts": 30.333333333333332,
+        "completions": 18.166666666666668,
+        "big_time_throws": 1.5
+      }
+    }
+  },
+  {
+    "name": "Jalon Daniels",
+    "school": "Kansas",
+    "stats": {
+      "rank": 333,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.009033333333333332,
+      "completions": 102,
+      "attempts": 181,
+      "yards": 1309,
+      "touchdowns": 10,
+      "grades_offense": 67.3,
+      "grades_pass": 62.2,
+      "per_game": {
+        "yards": 187.0,
+        "touchdowns": 1.4285714285714286,
+        "attempts": 25.857142857142858,
+        "completions": 14.571428571428571,
+        "big_time_throws": 1.1428571428571428
+      }
+    }
+  },
+  {
+    "name": "Riley Leonard",
+    "school": "Notre Dame",
+    "stats": {
+      "rank": 148,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.20260000000000009,
+      "completions": 118,
+      "attempts": 178,
+      "yards": 1182,
+      "touchdowns": 6,
+      "grades_offense": 75.0,
+      "grades_pass": 64.2,
+      "per_game": {
+        "yards": 168.85714285714286,
+        "touchdowns": 0.8571428571428571,
+        "attempts": 25.428571428571427,
+        "completions": 16.857142857142858,
+        "big_time_throws": 0.7142857142857143
+      }
+    }
+  },
+  {
+    "name": "Kyron Drones",
+    "school": "Virginia Tech",
+    "stats": {
+      "rank": 396,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.01975238095238095,
+      "completions": 111,
+      "attempts": 177,
+      "yards": 1319,
+      "touchdowns": 9,
+      "grades_offense": 84.1,
+      "grades_pass": 79.2,
+      "per_game": {
+        "yards": 188.42857142857142,
+        "touchdowns": 1.2857142857142858,
+        "attempts": 25.285714285714285,
+        "completions": 15.857142857142858,
+        "big_time_throws": 1.0
+      }
+    }
+  },
+  {
+    "name": "Garrett Greene",
+    "school": "West Virginia",
+    "stats": {
+      "rank": 833,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0027333333333333333,
+      "completions": 100,
+      "attempts": 177,
+      "yards": 1348,
+      "touchdowns": 9,
+      "grades_offense": 80.7,
+      "grades_pass": 73.0,
+      "per_game": {
+        "yards": 192.57142857142858,
+        "touchdowns": 1.2857142857142858,
+        "attempts": 25.285714285714285,
+        "completions": 14.285714285714286,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Sawyer Robertson",
+    "school": "Baylor",
+    "stats": {
+      "rank": 616,
+      "games_played": 6,
+      "grade": 50.0,
+      "success_probability": 0.004433333333333333,
+      "completions": 104,
+      "attempts": 174,
+      "yards": 1309,
+      "touchdowns": 14,
+      "grades_offense": 81.2,
+      "grades_pass": 77.0,
+      "per_game": {
+        "yards": 218.16666666666666,
+        "touchdowns": 2.3333333333333335,
+        "attempts": 29.0,
+        "completions": 17.333333333333332,
+        "big_time_throws": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "name": "Brock Vandagriff",
+    "school": "Kentucky",
+    "stats": {
+      "rank": 564,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0005,
+      "completions": 92,
+      "attempts": 161,
+      "yards": 1117,
+      "touchdowns": 6,
+      "grades_offense": 71.1,
+      "grades_pass": 67.5,
+      "per_game": {
+        "yards": 159.57142857142858,
+        "touchdowns": 0.8571428571428571,
+        "attempts": 23.0,
+        "completions": 13.142857142857142,
+        "big_time_throws": 1.2857142857142858
+      }
+    }
+  },
+  {
+    "name": "Cade McNamara",
+    "school": "Iowa",
+    "stats": {
+      "rank": 866,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0033,
+      "completions": 97,
+      "attempts": 160,
+      "yards": 946,
+      "touchdowns": 6,
+      "grades_offense": 65.6,
+      "grades_pass": 65.4,
+      "per_game": {
+        "yards": 135.14285714285714,
+        "touchdowns": 0.8571428571428571,
+        "attempts": 22.857142857142858,
+        "completions": 13.857142857142858,
+        "big_time_throws": 0.7142857142857143
+      }
+    }
+  },
+  {
+    "name": "Payton Thorne",
+    "school": "Auburn",
+    "stats": {
+      "rank": 921,
+      "games_played": 6,
+      "grade": 50.0,
+      "success_probability": 0.008,
+      "completions": 94,
+      "attempts": 159,
+      "yards": 1414,
+      "touchdowns": 11,
+      "grades_offense": 80.2,
+      "grades_pass": 80.2,
+      "per_game": {
+        "yards": 235.66666666666666,
+        "touchdowns": 1.8333333333333333,
+        "attempts": 26.5,
+        "completions": 15.666666666666666,
+        "big_time_throws": 1.5
+      }
+    }
+  },
+  {
+    "name": "Donovan Smith",
+    "school": "Houston",
+    "stats": {
+      "rank": 347,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.0038999999999999994,
+      "completions": 86,
+      "attempts": 134,
+      "yards": 862,
+      "touchdowns": 4,
+      "grades_offense": 61.7,
+      "grades_pass": 55.3,
+      "per_game": {
+        "yards": 123.14285714285714,
+        "touchdowns": 0.5714285714285714,
+        "attempts": 19.142857142857142,
+        "completions": 12.285714285714286,
+        "big_time_throws": 0.2857142857142857
+      }
+    }
+  },
+  {
+    "name": "Byrum Brown",
+    "school": "South Florida",
+    "stats": {
+      "rank": 364,
+      "games_played": 5,
+      "grade": 50.0,
+      "success_probability": 0.0063,
+      "completions": 78,
+      "attempts": 132,
+      "yards": 837,
+      "touchdowns": 2,
+      "grades_offense": 65.7,
+      "grades_pass": 59.9,
+      "per_game": {
+        "yards": 167.4,
+        "touchdowns": 0.4,
+        "attempts": 26.4,
+        "completions": 15.6,
+        "big_time_throws": 0.6
+      }
+    }
+  },
+  {
+    "name": "Kaidon Salter",
+    "school": "Liberty",
+    "stats": {
+      "rank": 609,
+      "games_played": 5,
+      "grade": 50.0,
+      "success_probability": 0.01735079365079365,
+      "completions": 75,
+      "attempts": 120,
+      "yards": 1074,
+      "touchdowns": 7,
+      "grades_offense": 81.5,
+      "grades_pass": 84.0,
+      "per_game": {
+        "yards": 214.8,
+        "touchdowns": 1.4,
+        "attempts": 24.0,
+        "completions": 15.0,
+        "big_time_throws": 2.0
+      }
+    }
+  },
+  {
+    "name": "Nick Evers",
+    "school": "UConn",
+    "stats": {
+      "rank": 453,
+      "games_played": 5,
+      "grade": 50.0,
+      "success_probability": 0.0026333333333333334,
+      "completions": 64,
+      "attempts": 117,
+      "yards": 620,
+      "touchdowns": 4,
+      "grades_offense": 62.6,
+      "grades_pass": 62.3,
+      "per_game": {
+        "yards": 124.0,
+        "touchdowns": 0.8,
+        "attempts": 23.4,
+        "completions": 12.8,
+        "big_time_throws": 1.2
+      }
+    }
+  },
+  {
+    "name": "Hudson Card",
+    "school": "Purdue",
+    "stats": {
+      "rank": 726,
+      "games_played": 5,
+      "grade": 50.0,
+      "success_probability": 0.0005,
+      "completions": 71,
+      "attempts": 112,
+      "yards": 738,
+      "touchdowns": 7,
+      "grades_offense": 77.6,
+      "grades_pass": 75.4,
+      "per_game": {
+        "yards": 147.6,
+        "touchdowns": 1.4,
+        "attempts": 22.4,
+        "completions": 14.2,
+        "big_time_throws": 1.2
+      }
+    }
+  },
+  {
+    "name": "Graham Mertz",
+    "school": "Florida",
+    "stats": {
+      "rank": 388,
+      "games_played": 5,
+      "grade": 50.0,
+      "success_probability": 0.002833333333333333,
+      "completions": 72,
+      "attempts": 94,
+      "yards": 791,
+      "touchdowns": 6,
+      "grades_offense": 69.1,
+      "grades_pass": 70.5,
+      "per_game": {
+        "yards": 158.2,
+        "touchdowns": 1.2,
+        "attempts": 18.8,
+        "completions": 14.4,
+        "big_time_throws": 0.4
+      }
+    }
+  },
+  {
+    "name": "Conner Weigman",
+    "school": "Texas A&M",
+    "stats": {
+      "rank": 174,
+      "games_played": 4,
+      "grade": 50.0,
+      "success_probability": 0.07700317460317459,
+      "completions": 56,
+      "attempts": 91,
+      "yards": 718,
+      "touchdowns": 3,
+      "grades_offense": 63.6,
+      "grades_pass": 58.7,
+      "per_game": {
+        "yards": 179.5,
+        "touchdowns": 0.75,
+        "attempts": 22.75,
+        "completions": 14.0,
+        "big_time_throws": 1.25
+      }
+    }
+  },
+  {
+    "name": "T.J. Finley",
+    "school": "Western Kentucky",
+    "stats": {
+      "rank": 810,
+      "games_played": 3,
+      "grade": 50.0,
+      "success_probability": 0.0006666666666666666,
+      "completions": 49,
+      "attempts": 76,
+      "yards": 493,
+      "touchdowns": 1,
+      "grades_offense": 73.6,
+      "grades_pass": 73.1,
+      "per_game": {
+        "yards": 164.33333333333334,
+        "touchdowns": 0.3333333333333333,
+        "attempts": 25.333333333333332,
+        "completions": 16.333333333333332,
+        "big_time_throws": 0.3333333333333333
+      }
+    }
+  },
+  {
+    "name": "Tyler Van Dyke",
+    "school": "Wisconsin",
+    "stats": {
+      "rank": 759,
+      "games_played": 3,
+      "grade": 50.0,
+      "success_probability": 0.0038666666666666667,
+      "completions": 43,
+      "attempts": 68,
+      "yards": 422,
+      "touchdowns": 1,
+      "grades_offense": 72.9,
+      "grades_pass": 77.5,
+      "per_game": {
+        "yards": 140.66666666666666,
+        "touchdowns": 0.3333333333333333,
+        "attempts": 22.666666666666668,
+        "completions": 14.333333333333334,
+        "big_time_throws": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "name": "Cameron Rising",
+    "school": "Utah",
+    "stats": {
+      "rank": 951,
+      "games_played": 3,
+      "grade": 50.0,
+      "success_probability": 0.0006666666666666666,
+      "completions": 34,
+      "attempts": 66,
+      "yards": 555,
+      "touchdowns": 7,
+      "grades_offense": 49.9,
+      "grades_pass": 46.9,
+      "per_game": {
+        "yards": 185.0,
+        "touchdowns": 2.3333333333333335,
+        "attempts": 22.0,
+        "completions": 11.333333333333334,
+        "big_time_throws": 0.3333333333333333
+      }
+    }
+  },
+  {
+    "name": "Preston Stone",
+    "school": "SMU",
+    "stats": {
+      "rank": 605,
+      "games_played": 4,
+      "grade": 50.0,
+      "success_probability": 0.011166666666666667,
+      "completions": 28,
+      "attempts": 46,
+      "yards": 349,
+      "touchdowns": 4,
+      "grades_offense": 80.5,
+      "grades_pass": 80.6,
+      "per_game": {
+        "yards": 87.25,
+        "touchdowns": 1.0,
+        "attempts": 11.5,
+        "completions": 7.0,
+        "big_time_throws": 0.75
+      }
+    }
+  },
+  {
+    "name": "Dequan Finn",
+    "school": "Baylor",
+    "stats": {
+      "rank": 914,
+      "games_played": 2,
+      "grade": 50.0,
+      "success_probability": 0.009454978354978355,
+      "completions": 23,
+      "attempts": 43,
+      "yards": 307,
+      "touchdowns": 3,
+      "grades_offense": 52.6,
+      "grades_pass": 43.7,
+      "per_game": {
+        "yards": 153.5,
+        "touchdowns": 1.5,
+        "attempts": 21.5,
+        "completions": 11.5,
+        "big_time_throws": 0.5
+      }
+    }
+  },
+  {
+    "name": "Drew Pyne",
+    "school": "Missouri",
+    "stats": {
+      "rank": 756,
+      "games_played": 4,
+      "grade": 50.0,
+      "success_probability": 0.009954978354978355,
+      "completions": 29,
+      "attempts": 43,
+      "yards": 211,
+      "touchdowns": 0,
+      "grades_offense": 53.8,
+      "grades_pass": 53.7,
+      "per_game": {
+        "yards": 52.75,
+        "touchdowns": 0.0,
+        "attempts": 10.75,
+        "completions": 7.25,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Jeff Sims",
+    "school": "Arizona State",
+    "stats": {
+      "rank": 771,
+      "games_played": 2,
+      "grade": 50.0,
+      "success_probability": 0.009954978354978355,
+      "completions": 13,
+      "attempts": 25,
+      "yards": 168,
+      "touchdowns": 0,
+      "grades_offense": 57.7,
+      "grades_pass": 50.8,
+      "per_game": {
+        "yards": 84.0,
+        "touchdowns": 0.0,
+        "attempts": 12.5,
+        "completions": 6.5,
+        "big_time_throws": 0.5
+      }
+    }
+  },
+  {
+    "name": "Devin Brown",
+    "school": "Ohio State",
+    "stats": {
+      "rank": 442,
+      "games_played": 4,
+      "grade": 50.0,
+      "success_probability": 0.011288311688311688,
+      "completions": 10,
+      "attempts": 18,
+      "yards": 108,
+      "touchdowns": 1,
+      "grades_offense": 75.7,
+      "grades_pass": 72.7,
+      "per_game": {
+        "yards": 27.0,
+        "touchdowns": 0.25,
+        "attempts": 4.5,
+        "completions": 2.5,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Ty Simpson",
+    "school": "Alabama",
+    "stats": {
+      "rank": 409,
+      "games_played": 2,
+      "grade": 50.0,
+      "success_probability": 0.014254978354978352,
+      "completions": 9,
+      "attempts": 14,
+      "yards": 96,
+      "touchdowns": 0,
+      "grades_offense": 67.7,
+      "grades_pass": 64.8,
+      "per_game": {
+        "yards": 48.0,
+        "touchdowns": 0.0,
+        "attempts": 7.0,
+        "completions": 4.5,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Gunner Stockton",
+    "school": "Georgia",
+    "stats": {
+      "rank": 416,
+      "games_played": 1,
+      "grade": 50.0,
+      "success_probability": 0.013088311688311685,
+      "completions": 10,
+      "attempts": 12,
+      "yards": 90,
+      "touchdowns": 0,
+      "grades_offense": 59.1,
+      "grades_pass": 57.9,
+      "per_game": {
+        "yards": 90.0,
+        "touchdowns": 0.0,
+        "attempts": 12.0,
+        "completions": 10.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Jayden Maiava",
+    "school": "USC",
+    "stats": {
+      "rank": 529,
+      "games_played": 1,
+      "grade": 50.0,
+      "success_probability": 0.011421645021645022,
+      "completions": 8,
+      "attempts": 11,
+      "yards": 66,
+      "touchdowns": 0,
+      "grades_offense": 74.2,
+      "grades_pass": 61.8,
+      "per_game": {
+        "yards": 66.0,
+        "touchdowns": 0.0,
+        "attempts": 11.0,
+        "completions": 8.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Ty Thompson",
+    "school": "Tulane",
+    "stats": {
+      "rank": 636,
+      "games_played": 4,
+      "grade": 50.0,
+      "success_probability": 0.017088311688311684,
+      "completions": 6,
+      "attempts": 9,
+      "yards": 74,
+      "touchdowns": 2,
+      "grades_offense": 81.7,
+      "grades_pass": 74.7,
+      "per_game": {
+        "yards": 18.5,
+        "touchdowns": 0.5,
+        "attempts": 2.25,
+        "completions": 1.5,
+        "big_time_throws": 0.25
+      }
+    }
+  },
+  {
+    "name": "Chandler Rogers",
+    "school": "California",
+    "stats": {
+      "rank": 948,
+      "games_played": 3,
+      "grade": 50.0,
+      "success_probability": 0.009454978354978355,
+      "completions": 4,
+      "attempts": 8,
+      "yards": 33,
+      "touchdowns": 0,
+      "grades_offense": 67.3,
+      "grades_pass": 71.5,
+      "per_game": {
+        "yards": 11.0,
+        "touchdowns": 0.0,
+        "attempts": 2.6666666666666665,
+        "completions": 1.3333333333333333,
+        "big_time_throws": 0.3333333333333333
+      }
+    }
+  },
+  {
+    "name": "Gerry Bohanon",
+    "school": "BYU",
+    "stats": {
+      "rank": 954,
+      "games_played": 1,
+      "grade": 50.0,
+      "success_probability": 0.009454978354978355,
+      "completions": 3,
+      "attempts": 3,
+      "yards": 27,
+      "touchdowns": 0,
+      "grades_offense": 77.6,
+      "grades_pass": 73.8,
+      "per_game": {
+        "yards": 27.0,
+        "touchdowns": 0.0,
+        "attempts": 3.0,
+        "completions": 3.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Walker Howard",
+    "school": "Mississippi",
+    "stats": {
+      "rank": 477,
+      "games_played": 1,
+      "grade": 50.0,
+      "success_probability": 0.010754978354978354,
+      "completions": 0,
+      "attempts": 2,
+      "yards": 0,
+      "touchdowns": 0,
+      "grades_offense": 63.3,
+      "grades_pass": 63.1,
+      "per_game": {
+        "yards": 0.0,
+        "touchdowns": 0.0,
+        "attempts": 2.0,
+        "completions": 0.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Collin Schlee",
+    "school": "Virginia Tech",
+    "stats": {
+      "rank": 935,
+      "games_played": 2,
+      "grade": 50.0,
+      "success_probability": 0.009454978354978355,
+      "completions": 0,
+      "attempts": 1,
+      "yards": 0,
+      "touchdowns": 0,
+      "grades_offense": 62.4,
+      "grades_pass": 48.3,
+      "per_game": {
+        "yards": 0.0,
+        "touchdowns": 0.0,
+        "attempts": 0.5,
+        "completions": 0.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Nate Johnson",
+    "school": "Vanderbilt",
+    "stats": {
+      "rank": 549,
+      "games_played": 2,
+      "grade": 50.0,
+      "success_probability": 0.010621645021645022,
+      "completions": 0,
+      "attempts": 1,
+      "yards": 0,
+      "touchdowns": 0,
+      "grades_offense": 74.0,
+      "grades_pass": 55.5,
+      "per_game": {
+        "yards": 0.0,
+        "touchdowns": 0.0,
+        "attempts": 0.5,
+        "completions": 0.0,
+        "big_time_throws": 0.0
+      }
+    }
+  },
+  {
+    "name": "Mark Gronowski",
+    "school": "South Dakota State",
+    "stats": {
+      "rank": 401,
+      "games_played": 7,
+      "grade": 50.0,
+      "success_probability": 0.005633333333333333,
+      "completions": 108,
+      "attempts": 177,
+      "yards": 1220,
+      "touchdowns": 11,
+      "grades_offense": 66.3,
+      "grades_pass": 60.9,
+      "per_game": {
+        "yards": 174.28571428571428,
+        "touchdowns": 1.5714285714285714,
+        "attempts": 25.285714285714285,
+        "completions": 15.428571428571429,
+        "big_time_throws": 1.1428571428571428
+      }
+    }
+  }
+]
