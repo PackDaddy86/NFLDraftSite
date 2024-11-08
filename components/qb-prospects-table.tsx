@@ -2,8 +2,6 @@
 
 import React, { useState } from 'react';
 
-type SortValue = string | number | null;
-
 interface PerGameStats {
   yards: number;
   touchdowns: number;
@@ -16,14 +14,14 @@ interface QBStats {
   rank: number;
   games_played: number;
   grade: number;
-  success_probability: number;
   completions: number;
   attempts: number;
   yards: number;
   touchdowns: number;
+  interceptions: number;
   grades_offense: number;
   grades_pass: number;
-  per_game: PerGameStats;
+  first_downs: number;
 }
 
 interface QBProspect {
@@ -38,6 +36,8 @@ interface QBProspectsTableProps {
 
 const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects }) => {
   const [expandedRow, setExpandedRow] = useState<string | null>(null);
+  
+  // Rest of your component code...
   const [sortField, setSortField] = useState<string>('stats.rank');
   const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
 
