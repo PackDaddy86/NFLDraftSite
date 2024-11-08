@@ -2,6 +2,8 @@
 
 import React, { useState } from 'react';
 
+type SortValue = string | number | null;
+
 interface PerGameStats {
   yards: number;
   touchdowns: number;
@@ -12,16 +14,17 @@ interface PerGameStats {
 
 interface QBStats {
   rank: number;
-  games_played: number;
-  grade: number;
   completions: number;
   attempts: number;
   yards: number;
   touchdowns: number;
   interceptions: number;
+  grade: number;               // Add this - used in getGradeColor
   grades_offense: number;
   grades_pass: number;
   first_downs: number;
+  success_probability: number; // Add this - used in formatProbability
+  per_game: PerGameStats;     // Add this - used in expanded view
 }
 
 interface QBProspect {
