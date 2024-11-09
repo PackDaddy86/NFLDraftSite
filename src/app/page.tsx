@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import QBProspectsTable from '../components/qb-prospects-table.tsx';
+import QBProspectsTable from '../components/qb-prospects-table';
 
 export default function Home() {
   const [prospects, setProspects] = useState([]);
