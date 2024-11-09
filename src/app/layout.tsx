@@ -32,17 +32,19 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4">
             <div className="flex items-center justify-between h-16">
               <div className="flex space-x-4">
-              <Link href="/" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
-                Player Comps
-              </Link>
-              <Link href="/grades" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
-               Draft Grades
-             </Link>
+                <Link href="/" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
+                  Player Comps
+                </Link>
+                <Link href="/grades" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">
+                  Draft Grades
+                </Link>
               </div>
             </div>
           </div>
         </nav>
-        {children}
+        <main className="min-h-screen bg-gray-50">
+          {children}
+        </main>
       </body>
     </html>
   );
