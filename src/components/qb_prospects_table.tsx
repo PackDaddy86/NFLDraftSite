@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 
+// Data structure definitions
 interface Stats {
   rank: number;
   completions: number;
@@ -35,6 +36,17 @@ interface QBProspectsTableProps {
   prospects: Prospect[];
 }
 
+// Helper functions for formatting
+const formatNumber = (value: number | undefined | null): string => {
+  if (value === undefined || value === null) return 'N/A';
+  return value.toFixed(1);
+};
+
+const formatSimilarity = (value: number | undefined | null): string => {
+  if (value === undefined || value === null) return 'N/A';
+  return `${(value * 100).toFixed(2)}%`;
+};
+
 const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects = [] }) => {
   const [expandedRow, setExpandedRow] = useState<string | null>(null);
 
@@ -43,38 +55,31 @@ const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects = [] }) =
       <table className="min-w-full divide-y divide-gray-200">
         <thead className="bg-gray-800">
           <tr>
-            <th 
-              className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
               Name
             </th>
-            <th 
-              className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
               School
             </th>
-            <th 
-              className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
               Rank
             </th>
-            <th 
-              className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
               Grade
             </th>
-            <th 
-              className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
               Yards
             </th>
-            <th 
-              className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
               TDs
             </th>
-            <th 
-              className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
+            <th className="px-6 py-3 text-center text-xs font-medium text-white uppercase tracking-wider">
               INTs
             </th>
           </tr>
         </thead>
         <tbody className="bg-white divide-y divide-gray-200">
-          {prospects.map((prospect) => (
+          {prospects?.map((prospect) => (
             <React.Fragment key={prospect.name}>
               <tr 
                 className="hover:bg-gray-50 cursor-pointer"
@@ -87,19 +92,19 @@ const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects = [] }) =
                   <div className="text-sm font-medium text-gray-900">{prospect.school}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-center">
-                  <div className="text-sm font-medium text-gray-900">{prospect.stats.rank}</div>
+                  <div className="text-sm font-medium text-gray-900">{formatNumber(prospect.stats.rank)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-center">
-                  <div className="text-sm font-medium text-gray-900">{prospect.stats.grades_offense ?? 'N/A'}</div>
+                  <div className="text-sm font-medium text-gray-900">{formatNumber(prospect.stats.grades_offense)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-center">
-                  <div className="text-sm font-medium text-gray-900">{prospect.stats.yards}</div>
+                  <div className="text-sm font-medium text-gray-900">{formatNumber(prospect.stats.yards)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-center">
-                  <div className="text-sm font-medium text-gray-900">{prospect.stats.touchdowns}</div>
+                  <div className="text-sm font-medium text-gray-900">{formatNumber(prospect.stats.touchdowns)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-center">
-                  <div className="text-sm font-medium text-gray-900">{prospect.stats.interceptions}</div>
+                  <div className="text-sm font-medium text-gray-900">{formatNumber(prospect.stats.interceptions)}</div>
                 </td>
               </tr>
               {expandedRow === prospect.name && (
@@ -136,11 +141,11 @@ const QBProspectsTable: React.FC<QBProspectsTableProps> = ({ prospects = [] }) =
                                 <div className="text-sm font-medium text-gray-900">{comp.year}</div>
                               </td>
                               <td className="px-6 py-4 whitespace-nowrap text-center">
-                                <div className="text-sm font-medium text-gray-900">{(comp.similarity * 100).toFixed(2)}%</div>
+                                <div className="text-sm font-medium text-gray-900">{formatSimilarity(comp.similarity)}</div>
                               </td>
                               <td className="px-6 py-4 whitespace-nowrap text-center">
                                 <div className="text-sm font-medium text-gray-900">
-                                  {comp.nfl_success_score !== null ? comp.nfl_success_score : 'N/A'}
+                                  {comp.nfl_success_score !== null ? formatNumber(comp.nfl_success_score) : 'N/A'}
                                 </div>
                               </td>
                             </tr>
